@@ -13,7 +13,7 @@ Responsive design for PC only. 💻
 Addictive gameplay. 😏
 
 # 🔗 Learn More
-Want to know more? 2048 Wikipedia
+Want to know more? https://en.wikipedia.org/wiki/2048_(video_game)
 
 # 💥 2048! 2048! 2048! 2048! 2048! 2048! 2048! 2048! 2048! 2048!
 2048! 2048! 2048! 2048! 2048! 2048! 2048! 2048! 2048! 2048!
